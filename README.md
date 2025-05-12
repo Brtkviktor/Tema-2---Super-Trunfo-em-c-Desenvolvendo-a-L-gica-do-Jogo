@@ -1,2 +1,4 @@
-# Tema-2---Super-Trunfo-em-c-Desenvolvendo-a-L-gica-do-Jogo
-Tema 2 - Super Trunfo em c: Desenvolvendo a Lógica do Jogo
+Atividades referente ao tema 2
+Atividade de Nivel Novato 
+Atividade de Vinel Aventureiro
+Atividade de Nivel Mestre 
