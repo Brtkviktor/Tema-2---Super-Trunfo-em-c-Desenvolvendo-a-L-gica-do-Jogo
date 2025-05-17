@@ -140,7 +140,7 @@ int main()
 
     // Logica de comparaçõa da Densidade Populaçional
     printf("\n");
-    printf("Comparação de Demcidade Populacional.\n");
+    printf("Comparação de Densidade Populacional.\n");
     printf("Cidade %s: %.2f km²\n", nomeCidade1, densidade1);
     printf("Cidade %s: %.2f km²\n", nomeCidade2, densidade2);
 
