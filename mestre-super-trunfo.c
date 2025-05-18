@@ -4,7 +4,8 @@ int main()
 {
     //Dados da Carta 1
     char cidade1[] = "São Paulo";
-    char estado1[] = "SP";
+    char estado1[] = "A";
+    char codigo1[] = "A01";
     int populacao1 = 12325000;
     float area1 = 1521.11;
     float pib1 = 699.28;
@@ -14,7 +15,8 @@ int main()
 
     //Dados da Carta 2
     char cidade2[] = "Rio de Janeiro";
-    char estado2[] = "RJ";
+    char estado2[] = "B";
+    char codigo2[] = "A02";
     int populacao2 = 6748000;
     float area2 = 1200.25;
     float pib2 = 300.50;
@@ -238,7 +240,7 @@ int main()
     printf("  Soma: %.2f\n", soma2);
 
     //Resultado da comparação final com operador ternário
-    printf("\n ### -- Vencedor: -- ### ");
+    printf("\n ### -- Vencedor: -- ### \n");
     (soma1 > soma2) ? printf("Carta 1 (%s)\n", cidade1) : (soma2 > soma1) ? printf("Carta 2 (%s)\n", cidade2) : printf("Empate!\n");
 
     return 0;
